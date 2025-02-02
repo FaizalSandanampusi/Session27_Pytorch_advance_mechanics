@@ -1,4 +1,4 @@
-# Custom MNIST Classification Models
+# MNIST Classification Models using Custom Pytorch Layers
 
 This repository contains two different approaches to MNIST digit classification, both implementing custom PyTorch layers from scratch. The models demonstrate how to build neural network components from the ground up while achieving competitive performance on the MNIST dataset.
 
